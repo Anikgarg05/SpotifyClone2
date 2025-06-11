@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "title": "Song One",
+      "artist": "Artist A",
+      "audio": "/songs/1.mp3",
+      "thumbnail": "/thumbnails/song1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Song Two",
+      "artist": "Artist B",
+      "audio": "/songs/2.mp3",
+      "thumbnail": "/thumbnails/song2.jpg"
+    }
+  ]
+  
